@@ -1,5 +1,5 @@
 # `CanonicalForms`
-`CanonicalForms` is a small library for manipulation, generation and simple analysis of canonical forms, with specialized support for working with gaussian models. It not be maintained :^)
+`CanonicalForms` is a small library for manipulation, generation and simple analysis of canonical forms, with specialized support for working with gaussian models.
 
 In short, a canonical form is a representation of a probability distribution, and they are useful for factorizing and simplifying probability distributions with sets of independent variables. The following is a demonstration of how and what it can do.
 
